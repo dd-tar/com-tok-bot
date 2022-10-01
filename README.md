@@ -1,4 +1,3 @@
-# com-tok-bot
 ## Available Scripts
 
 In the project directory, you can run:
